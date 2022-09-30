@@ -1,8 +1,8 @@
 # formative Annuary SAE
 
 the code offers the user 5 options:
-- Add a new Number, it asked a first name, lastname and a number to add it to the annuary
-- Search a Number, asked a firstname and a lastname to find it 
+- Add a new Number, it asked a first name, last name and a number to add it to the annuary
+- Search a Number, asked a first name and a last name to find it 
 - Show the Annuary
 - Add False Users, added 3 pre entered fake users
 - End program 
